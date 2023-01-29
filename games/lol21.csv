@@ -1,0 +1,6 @@
+username,first,second,operator,answer,user_answer,time
+lol21,4,6,*,0,24,2
+lol21,2,0,/,24,Infinity,3
+lol21,10,2,/,1,5,2
+lol21,4,3,-,0,1,0
+lol21,6,1,/,5,6,3
